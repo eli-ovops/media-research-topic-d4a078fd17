@@ -1,34 +1,28 @@
-# research topic d4a078fd17 · 内容项目
+# From Source Check to Review
 
-围绕 research topic d4a078fd17 主题整理选题、资料、脚本和制作工程。
+**An early research and content package with limited evidence, plus notes on reviewing what happened after publication.**
 
-GitHub：[eli-ovops/media-research-topic-d4a078fd17](https://github.com/eli-ovops/media-research-topic-d4a078fd17)
+## What you will find
 
-## 内容
+Research material with its sources, assumptions and working trail kept available. Dated observations remain dated; a report or model is not proof of a current result.
 
-本次公开副本包含 6 个来源文件。
+## Start here
 
-- [`01_定位建议与关键阻碍.md`](01_%E5%AE%9A%E4%BD%8D%E5%BB%BA%E8%AE%AE%E4%B8%8E%E5%85%B3%E9%94%AE%E9%98%BB%E7%A2%8D.md)
-- [`02_8个候选与3个核心.md`](02_8%E4%B8%AA%E5%80%99%E9%80%89%E4%B8%8E3%E4%B8%AA%E6%A0%B8%E5%BF%83.md)
-- [`03_视频拆解与证据边界.md`](03_%E8%A7%86%E9%A2%91%E6%8B%86%E8%A7%A3%E4%B8%8E%E8%AF%81%E6%8D%AE%E8%BE%B9%E7%95%8C.md)
-- [`04_10个候选选题.md`](04_10%E4%B8%AA%E5%80%99%E9%80%89%E9%80%89%E9%A2%98.md)
-- [`05_复盘与验收.md`](05_%E5%A4%8D%E7%9B%98%E4%B8%8E%E9%AA%8C%E6%94%B6.md)
-- [`ORIGINAL_README.md`](ORIGINAL_README.md)
+- [Original project guide](ORIGINAL_README.md)
+- [Working note 2](05_%E5%A4%8D%E7%9B%98%E4%B8%8E%E9%AA%8C%E6%94%B6.md)
+- [Working note 3](04_10%E4%B8%AA%E5%80%99%E9%80%89%E9%80%89%E9%A2%98.md)
+- [Complete source inventory](SOURCE_MANIFEST.csv)
 
-文件类型：.md（6）。
+## Current scope
 
-## 阅读方式
+This snapshot includes 6 source files. Original media, databases, private account records and other unprocessed attachments were not included in this text-and-source release.
 
-按主题说明、研究记录和相关程序阅读；保留当时的探索状态与已知缺口。
+This update improves the English presentation. It does not rerun the project, install a skill, reproduce an old test, or establish production readiness. Some original working documents retain their source language; machine-specific paths or setup assumptions may still need adaptation.
 
-## 来源与许可
+Market and protocol material is research, not a claim of verified live trading performance or future returns.
 
-本仓库新增介绍及用户原创部分按 MIT 许可公开；第三方材料按其各自许可证和署名使用，不以本许可证重新授权第三方内容。
+## Sources and license
 
-## 当前状态与验证边界
+The owner's original contributions and new presentation notes follow the [retained license](LICENSE). Third-party material keeps its own licenses and attribution; this does not relicense it.
 
-- 本次完成公开副本整理和静态检查；没有运行来源代码、构建 App、安装 Skill 或启动服务。
-- 项目可能处于原型、实验或研究阶段；没有将其表述为生产交付、客户验收或经过验证的投资收益。
-- 图片、视频、数据库、真实账户记录及未确认可公开的附件没有随本次文本/源码副本上传。
-- 部分相对链接、运行依赖或素材可能仍需补齐；原始快照中的静态引用缺口数为 0，该数字不是运行失败数。
-- [本次来源文件清单](SOURCE_MANIFEST.csv)
+[Source paths and hashes](SOURCE_MANIFEST.csv)
